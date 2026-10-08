@@ -7,6 +7,10 @@ using Entity Framework Core and SQLite for persistent storage.
 I built this project to gain hands-on experience with .NET and practice
 connecting a React interface to my own REST API.
 
+## Preview
+
+![Saved Media Library interface](docs/screenshot.png)
+
 ## Technologies
 
 - **Frontend:** React, JavaScript, CSS, Vite
