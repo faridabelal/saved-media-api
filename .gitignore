@@ -1,0 +1,12 @@
+# Generated build files
+bin/
+obj/
+
+# Local database files
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+
+# macOS files
+.DS_Store
